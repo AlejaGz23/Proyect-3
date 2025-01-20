@@ -6,13 +6,13 @@ Este proyecto utiliza Node.js con el framework Express para el backend y HTML, C
 
 Características
 
-    Agregar productos: Los usuarios pueden agregar productos proporcionando nombre, precio e imagen.
-    Visualización dinámica: Los productos agregados se muestran en tarjetas con el nombre, precio y la imagen proporcionada.
-    Eliminar productos: Los productos pueden eliminarse con un ícono de bote de basura en cada tarjeta.
+Agregar productos: Los usuarios pueden agregar productos proporcionando nombre, precio e imagen.
+Visualización dinámica: Los productos agregados se muestran en tarjetas con el nombre, precio y la imagen proporcionada.
+Eliminar productos: Los productos pueden eliminarse con un ícono de bote de basura en cada tarjeta.
 
 Tecnologías utilizadas
 
-    Node.js: Para la ejecución del servidor y la gestión de las rutas.
-    Express: Para gestionar las rutas del servidor y servir archivos estáticos.
-    HTML/CSS/JavaScript: Para la interfaz de usuario.
-    npm: Para gestionar las dependencias del proyecto.
+Node.js: Para la ejecución del servidor y la gestión de las rutas.
+Express: Para gestionar las rutas del servidor y servir archivos estáticos.
+HTML/CSS/JavaScript: Para la interfaz de usuario.
+npm: Para gestionar las dependencias del proyecto.

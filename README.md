@@ -15,6 +15,9 @@ Características
 Tecnologías utilizadas
 
 -Node.js: Para la ejecución del servidor y la gestión de las rutas.
+
 -Express: Para gestionar las rutas del servidor y servir archivos estáticos.
+
 -HTML/CSS/JavaScript: Para la interfaz de usuario.
+
 -npm: Para gestionar las dependencias del proyecto.

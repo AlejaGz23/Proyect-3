@@ -1,0 +1,15 @@
+{
+  "name": "tiendageek",
+  "version": "1.0.0",
+  "description": "AluraGeek es una aplicación web que permite a los usuarios gestionar una lista de productos. Los usuarios pueden visualizar, agregar y eliminar productos, utilizando tecnologías frontend modernas y un servidor JSON simulado.\r 🔥 Características",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
